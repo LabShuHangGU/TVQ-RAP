@@ -44,4 +44,4 @@ Please cite us if our work is useful for your research.
 
 ## Contact
 
-If you have any questions, feel free to approach me at liqifan.lqf@gmail.com 
+If you have any questions, feel free to approach me at qifanli.lqf@gmail.com 
